@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Smooch+Sans:wght@100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+VN:wght@100..400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@400..700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Barriecito&display=swap");
+.head {
+  font-family: "Roboto Mono", serif;
+  text-align: left;
+}
+.head-1 {
+  font-family: "Smooch Sans", serif;
+  text-align: left;
+}
+.head-2 {
+  font-family: "Playwrite VN", serif;
+  text-align: left;
+}
+.head-3 {
+  font-family: "Noto Nastaliq Urdu", serif;
+  text-align: left;
+}
+.head-4 {
+  font-family: "Barriecito", serif;
+  text-align: left;
+}
+* {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+#main-title {
+  font-weight: bold;
+  text-decoration: underline;
+}
+.intro-paragraph {
+  font-style: italic;
+  line-height: 1.5px;
+}
+.content-paragraph {
+  text-transform: capitalize;
+}
+p {
+  font-weight: bold;
+}
+.nav-link {
+  color: forestgreen;
+  text-decoration: none;
+}
+.color-box p {
+  text-shadow: 2px 2px rgba(0, 0, 0, 0.3);
+}
